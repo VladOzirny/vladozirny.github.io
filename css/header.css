@@ -2,19 +2,19 @@
   font-family: "GothamPro";
   font-style: normal;
   font-weight: normal;
-  src: url("/fonts/GothamPro-master/GothamPro/GothamPro.eot?#iefix") format("embedded-opentype"), url("/fonts/GothamPro-master/GothamPro/GothamPro.woff") format("woff"), url("/fonts/GothamPro-master/GothamPro/GothamPro.ttf") format("truetype"), url("/fonts/GothamPro-master/GothamPro/GothamPro.svg#GothamPro") format("svg"); }
+  src: url("/fonts/Gothampro-master/GothamPro/GothamPro.eot?#iefix") format("embedded-opentype"), url("/fonts/Gothampro-master/GothamPro/GothamPro.woff") format("woff"), url("/fonts/Gothampro-master/GothamPro/GothamPro.ttf") format("truetype"), url("/fonts/Gothampro-master/GothamPro/GothamPro.svg#GothamPro") format("svg"); }
 
 @font-face {
   font-family: "GothamPro-Light";
   font-style: normal;
   font-weight: normal;
-  src: url("/fonts/GothamPro-master/GothamPro-Light/GothamPro-Light.eot?#iefix") format("embedded-opentype"), url("/fonts/GothamPro-master/GothamPro-Light/GothamPro-Light.woff") format("woff"), url("/fonts/GothamPro-master/GothamPro-Light/GothamPro-Light.ttf") format("truetype"), url("/fonts/GothamPro-master/GothamPro-Light/GothamPro-Light.svg#GothamPro-Light") format("svg"); }
+  src: url("/fonts/Gothampro-master/GothamPro-Light/GothamPro-Light.eot?#iefix") format("embedded-opentype"), url("/fonts/Gothampro-master/GothamPro-Light/GothamPro-Light.woff") format("woff"), url("/fonts/Gothampro-master/GothamPro-Light/GothamPro-Light.ttf") format("truetype"), url("/fonts/Gothampro-master/GothamPro-Light/GothamPro-Light.svg#GothamPro-Light") format("svg"); }
 
 @font-face {
   font-family: "GothamPro-Medium";
   font-style: normal;
   font-weight: normal;
-  src: url("/fonts/GothamPro-master/GothamPro-Medium/GothamPro-Medium.eot?#iefix") format("embedded-opentype"), url("/fonts/GothamPro-master/GothamPro-Medium/GothamPro-Medium.woff") format("woff"), url("/fonts/GothamPro-master/GothamPro-Medium/GothamPro-Medium.ttf") format("truetype"), url("/fonts/GothamPro-master/GothamPro-Medium/GothamPro-Medium.svg#GothamPro-Medium") format("svg"); }
+  src: url("/fonts/Gothampro-master/GothamPro-Medium/GothamPro-Medium.eot?#iefix") format("embedded-opentype"), url("/fonts/Gothampro-master/GothamPro-Medium/GothamPro-Medium.woff") format("woff"), url("/fonts/Gothampro-master/GothamPro-Medium/GothamPro-Medium.ttf") format("truetype"), url("/fonts/Gothampro-master/GothamPro-Medium/GothamPro-Medium.svg#GothamPro-Medium") format("svg"); }
 
 @font-face {
   font-family: "Roboto";
@@ -32,25 +32,25 @@
   font-family: "OpenSans";
   font-style: normal;
   font-weight: normal;
-  src: url("/fonts/OpenSans/OpenSans.woff2") format("woff2"), url("/fonts/OpenSans/OpenSans.woff") format("woff"), url("/fonts/OpenSans/OpenSans.ttf") format("truetype"); }
+  src: url("/fonts/opensans/opensans.woff2") format("woff2"), url("/fonts/opensans/opensans.woff") format("woff"), url("/fonts/opensans/opensans.ttf") format("truetype"); }
 
 @font-face {
   font-family: "OpenSansBold";
   font-style: normal;
   font-weight: normal;
-  src: url("/fonts/OpenSans/OpenSansLight.woff2") format("woff2"), url("/fonts/OpenSans/OpenSansLight.woff") format("woff"), url("/fonts/OpenSans/OpenSansLight.ttf") format("truetype"); }
+  src: url("/fonts/opensans/opensanslight.woff2") format("woff2"), url("/fonts/opensans/opensanslight.woff") format("woff"), url("/fonts/opensans/opensanslight.ttf") format("truetype"); }
 
 @font-face {
   font-family: "OpenSansSemiBold";
   font-style: normal;
   font-weight: normal;
-  src: url("/fonts/OpenSans/opensanssemibold.woff2") format("woff2"), url("/fonts/OpenSans/opensanssemibold.woff") format("woff"), url("/fonts/OpenSans/opensanssemibold.ttf") format("truetype"); }
+  src: url("/fonts/opensans/opensanssemibold.woff2") format("woff2"), url("/fonts/opensans/opensanssemibold.woff") format("woff"), url("/fonts/opensans/opensanssemibold.ttf") format("truetype"); }
 
 @font-face {
   font-family: "OpenSansSemiBoldItalic";
   font-style: normal;
   font-weight: normal;
-  src: url("/fonts/OpenSans/OpenSansSemiboldItalic.woff2") format("woff2"), url("/fonts/OpenSans/OpenSansSemiboldItalic.woff") format("woff"), url("/fonts/OpenSans/OpenSansSemiboldItalic.ttf") format("truetype"); }
+  src: url("/fonts/opensans/opensanssemibolditalic.woff2") format("woff2"), url("/fonts/opensans/opensanssemibolditalic.woff") format("woff"), url("/fonts/opensans/opensanssemibolditalic.ttf") format("truetype"); }
 
 * {
   margin: 0;
